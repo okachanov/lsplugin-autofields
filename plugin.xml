@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>
+		<lang name="default">Auto fields</lang>
+	</name>
+	<author>
+		<lang name="default">rafrica.net</lang>
+	</author>
+	<homepage>http://we.rafrica.net/</homepage>
+	<version>1.0.0</version>
+	<requires>
+		<livestreet>0.4.2</livestreet>
+		<plugins></plugins>
+		
+	</requires>
+	<description>
+    <lang name="default">Auto size changing of text fields</lang>
+		<lang name="russian">Автоматическое изменение размеров текстовых полей (подгонка по высоте) при наборе текста</lang>
+	</description>
+	
+</plugin>
